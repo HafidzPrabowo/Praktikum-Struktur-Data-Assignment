@@ -324,3 +324,5 @@ Mengenali tipe data memiliki beberapa manfaat, seperti memahami jenis data yang 
 
 ## Referensi
 [1]Zein, A., Eriana, E.S., Algoritma Dan Struktur Data, Banten: Unpam Press; 2022.
+[2]Syahidin, M.M., Mengenal Jenis-jenis Tipe Data dalam Bahasa C++, Bengkulu: WordPress; 2019.
+[3]Lhokseumawe, Struktur Data Dalam Pemograman C++, Reuleuet: UNIMAL; 2021. 
